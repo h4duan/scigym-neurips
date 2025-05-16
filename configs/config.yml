@@ -1,0 +1,18 @@
+# Scientific Hypothesis Benchmark Configuration
+
+# Model settings
+benchmark_dir: data/small/BIOMD0000000027
+model_name: claude-3-5-haiku-20241022
+api_key_env_name: CLAUDE_API_KEY
+
+# Experiment settings
+overwrite: true
+max_iterations: 2
+test_memorize: false
+experiment_actions_path: system_prompts/experiment_actions_perturb.md
+customized_functions_path: system_prompts/customized_functions_sim.md
+eval_debug_rounds: 3
+temperature: 0.0
+
+# Output settings
+output_dir: results
