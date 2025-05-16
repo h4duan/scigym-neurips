@@ -22,7 +22,7 @@ pre-commit install
 
 We host our full benchmark suite on HuggingFace and provide a script to download it. We provide two splits of the benchmark dataset:
 
-- `small`: Consists of 138 models we evaluated in our paper
+- `small`: Consists of 137 models we evaluated in our paper
 - `large`: Consists of an additional 213 models we did not evaluate
 
 To download the splits, run the following commands:
