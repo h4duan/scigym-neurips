@@ -39,8 +39,11 @@ You can use one of our [supported agents](#currently-supported-agents) with your
 ### Currently Supported Agents
 
 - `gemini-2.5-pro-preview-03-25`
+- `Gemini-2.5-Flash-Preview-04-17 `
 - `claude-3-5-haiku-20241022`
 - `claude-3-7-sonnet-20250219`
+- `GPT-4.1-2025-04-14`
+- `GPT-4.1-Mini-2025-04-14`
 
 ## Running the Benchmark
 
